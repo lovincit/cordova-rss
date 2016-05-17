@@ -1,0 +1,31 @@
+﻿/*!
+ * This file is part of App Builder
+ *
+ * ©2016 App Builder - https://www.davidesperalta.com
+ */
+
+/* App auto generated CSS */
+
+body { border-radius: 0.2em; }
+
+.appView { width: 320px; height: 480px; }
+
+.dialogView .modal-dialog { width: 320px; margin: 0 auto; }
+
+#FeedReport { position: absolute; top: 56px; left: 8px; width: 304px; height: 416px; overflow-y: auto;}
+
+#ProgressBar { position: absolute; top: 452px; left: 8px; width: 304px; height: 20px; }
+
+#FeedsSelect { position: absolute; top: 8px; left: 128px; width: 184px; height: 40px; }
+
+#AboutButton { position: absolute; top: 8px; left: 8px; width: 104px; height: 40px; }
+
+#InfoHtml { position: absolute; top: 54px; left: 8px; width: 304px; height: 184px; overflow-y: auto;}
+
+#OkButton { position: absolute; top: 424px; left: 8px; width: 304px; height: 48px; }
+
+#ThemesSelect { position: absolute; top: 296px; left: 8px; width: 160px; height: 40px; }
+
+#HeaderHtml { position: absolute; top: 16px; left: 8px; width: 304px; height: 24px; }
+
+#Label1 { position: absolute; top: 264px; left: 8px; width: 160px; height: 20px; }
